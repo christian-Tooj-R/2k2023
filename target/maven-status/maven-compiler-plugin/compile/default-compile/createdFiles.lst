@@ -1,0 +1,11 @@
+com\example\demo\repositories\equipe\EquipeRepository.class
+com\example\demo\service\Statistique\StatistiqueService.class
+com\example\nba\Statistique.class
+com\example\demo\model\Statistique.class
+com\example\demo\repositories\statistique\StatistiqueRepository.class
+com\example\demo\service\equipe\EquipeService.class
+com\example\demo\Controller\Statistique\StatistiqueController.class
+com\example\demo\Controller\TestController.class
+com\example\demo\NbaApplication.class
+com\example\nba\NbaApplication.class
+com\example\demo\model\Equipe.class
