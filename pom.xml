@@ -12,6 +12,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>vehicule</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
 	<name>vehicule</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -53,6 +54,7 @@
             <artifactId>spring-boot-maven-plugin</artifactId>
             <configuration>
                 <image>
+					<mainClass>com.example.demo.NbaApplication</mainClass>
                     <builder>paketobuildpacks/builder-jammy-base:latest</builder>
                 </image>
             </configuration>

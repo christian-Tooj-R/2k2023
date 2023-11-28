@@ -1,7 +1,0 @@
-{
-  "name": "learning",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
-}
